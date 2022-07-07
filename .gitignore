@@ -1,3 +1,5 @@
 /venv/
 /01_tdd_django/superlists/superlists/__pycache/
 /01_tdd_django/superlists/db.sqlite3
+/01_tdd_django/superlists/geckodriver.log
+/01_tdd_django/superlists/.pytest_cache/
